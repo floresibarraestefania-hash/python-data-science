@@ -1,7 +1,4 @@
-# python-data-science
-Exercises and projects from the course Python for Data Science, AI &amp; Development (IBM/Coursera)
 # Python for Data Science, AI & Development  
-
 Exercises and projects from the course **Python for Data Science, AI & Development** (IBM / Coursera).  
 This repository contains my practice notebooks, scripts, and mini-projects as I learn Python applied to Data Science.
 
